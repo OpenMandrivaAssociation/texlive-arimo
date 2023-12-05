@@ -1,6 +1,6 @@
 Name:		texlive-arimo
-Version:	64548
-Release:	2
+Version:	68950
+Release:	1
 Summary:	Arimo sans serif fonts with LaTeX support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/arimo
